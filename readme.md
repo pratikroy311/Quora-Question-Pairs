@@ -22,21 +22,21 @@ The goal of this project is to develop a robust model that can accurately classi
 
 The dataset for this project is sourced from the Quora Question Pairs competition on Kaggle. You can find the dataset and more information about the competition [here](https://www.kaggle.com/c/quora-question-pairs).
 
+create a folder name data and put the dataset there
+![Alt text](image.png)
 ## Usage
 
 1. **Data Preparation:** Ensure you have the dataset downloaded and stored appropriately.
 
 2. **Environment Setup:** Set up your Python environment with the required libraries. You can use the provided `requirements.txt` file.
+   create a virual environment for this specific project and use requirement.txt to install required libraries
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. **Model Training:** Train the model using the provided scripts and notebooks.
 
-4. **Model Evaluation:** Evaluate the model using log-loss and binary confusion metrics.
 
-5. **Inference:** Deploy the trained model for making predictions on new question pairs.
 
 ## References
 
